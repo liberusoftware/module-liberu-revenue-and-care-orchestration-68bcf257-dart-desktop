@@ -1,0 +1,15 @@
+{
+  "repository": "module-liberu-revenue-and-care-orchestration-68bcf257-dart-desktop",
+  "capabilityKey": "liberusoftware/liberu-revenue-and-care-orchestration",
+  "presentation": "dart-desktop",
+  "package": "module_liberu_revenue_and_care_orchestration_68bcf257_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/automation/nextjs/liberu-revenue-and-care-orchestration.md",
+  "presentationPlan": "projects/automation/features/liberu-revenue-and-care-orchestration.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
